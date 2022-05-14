@@ -1,0 +1,9 @@
+{
+  "spellcheck": true,
+  "legacyEditor": false,
+  "strictLineBreaks": true,
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "livePreview": true
+}
